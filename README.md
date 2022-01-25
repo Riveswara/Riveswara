@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 <!DOCTYPE html>
 <html>
-<head>
-<title>Riveswara</title>
-</head>
 <body>
 
 <h1>This is RIVESWARA</h1>
